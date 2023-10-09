@@ -2,7 +2,7 @@
 вход пятизначное число и проверяет, является ли оно
 палиндромом. */
 
-int a,b,c,d,e;
+int a,b,c,d,e,N;
 
 System.Console.WriteLine("Введите пятизначное число: ");
 N=Convert.ToInt32(Console.ReadLine());
