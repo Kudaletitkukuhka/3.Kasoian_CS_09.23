@@ -1,0 +1,15 @@
+C:\файлы\Учеба\GB\3.Kasoian_CS_09.23\29.09.23\Mass\obj\Debug\net6.0\Mass.csproj.AssemblyReference.cache
+C:\файлы\Учеба\GB\3.Kasoian_CS_09.23\29.09.23\Mass\obj\Debug\net6.0\Mass.GeneratedMSBuildEditorConfig.editorconfig
+C:\файлы\Учеба\GB\3.Kasoian_CS_09.23\29.09.23\Mass\obj\Debug\net6.0\Mass.AssemblyInfoInputs.cache
+C:\файлы\Учеба\GB\3.Kasoian_CS_09.23\29.09.23\Mass\obj\Debug\net6.0\Mass.AssemblyInfo.cs
+C:\файлы\Учеба\GB\3.Kasoian_CS_09.23\29.09.23\Mass\obj\Debug\net6.0\Mass.csproj.CoreCompileInputs.cache
+C:\файлы\Учеба\GB\3.Kasoian_CS_09.23\29.09.23\Mass\bin\Debug\net6.0\Mass.exe
+C:\файлы\Учеба\GB\3.Kasoian_CS_09.23\29.09.23\Mass\bin\Debug\net6.0\Mass.deps.json
+C:\файлы\Учеба\GB\3.Kasoian_CS_09.23\29.09.23\Mass\bin\Debug\net6.0\Mass.runtimeconfig.json
+C:\файлы\Учеба\GB\3.Kasoian_CS_09.23\29.09.23\Mass\bin\Debug\net6.0\Mass.dll
+C:\файлы\Учеба\GB\3.Kasoian_CS_09.23\29.09.23\Mass\bin\Debug\net6.0\Mass.pdb
+C:\файлы\Учеба\GB\3.Kasoian_CS_09.23\29.09.23\Mass\obj\Debug\net6.0\Mass.dll
+C:\файлы\Учеба\GB\3.Kasoian_CS_09.23\29.09.23\Mass\obj\Debug\net6.0\refint\Mass.dll
+C:\файлы\Учеба\GB\3.Kasoian_CS_09.23\29.09.23\Mass\obj\Debug\net6.0\Mass.pdb
+C:\файлы\Учеба\GB\3.Kasoian_CS_09.23\29.09.23\Mass\obj\Debug\net6.0\Mass.genruntimeconfig.cache
+C:\файлы\Учеба\GB\3.Kasoian_CS_09.23\29.09.23\Mass\obj\Debug\net6.0\ref\Mass.dll
