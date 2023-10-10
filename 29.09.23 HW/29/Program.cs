@@ -4,9 +4,7 @@
 1, 2, 5, 7, 19 -> [1, 2, 5, 7, 19]
 6, 1, 33 -> [6, 1, 33] */
 
- System.Console.WriteLine("Ниже представлен массив из 8 элементов, заполненный нулями и единицами в случайном порядке:");
-
- void CreateArray()
+ void CreateArray(int col)
  {
      int[] array = new int [8];
      for (int i = 0; i < array.Length; i++)
@@ -16,4 +14,7 @@
      }
  }
 
- CreateArray();
+System.Console.Write("Введите количесвто элементов в массиве: ");
+int col = Convert.ToInt32(Console.ReadLine());
+System.Console.WriteLine($"Ниже представлен массив из {col} элементов, заполненный случайными числами:");
+ CreateArray(col);
