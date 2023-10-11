@@ -39,10 +39,9 @@ int[] MultiplyMassive(int[] array)
 }
 
 
-int n=4;
+int n=5;
 int minAr = -200;
 int maxAr = 200;
 
 int[] arr = CreateMassive(n, minAr, maxAr);
 int[] result = MultiplyMassive(arr);
-
