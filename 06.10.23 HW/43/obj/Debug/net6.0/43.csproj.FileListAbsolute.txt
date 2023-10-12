@@ -1,0 +1,15 @@
+C:\файлы\Учеба\GB\3.Kasoian_CS_09.23\06.10.23 HW\43\obj\Debug\net6.0\43.csproj.AssemblyReference.cache
+C:\файлы\Учеба\GB\3.Kasoian_CS_09.23\06.10.23 HW\43\obj\Debug\net6.0\43.GeneratedMSBuildEditorConfig.editorconfig
+C:\файлы\Учеба\GB\3.Kasoian_CS_09.23\06.10.23 HW\43\obj\Debug\net6.0\43.AssemblyInfoInputs.cache
+C:\файлы\Учеба\GB\3.Kasoian_CS_09.23\06.10.23 HW\43\obj\Debug\net6.0\43.AssemblyInfo.cs
+C:\файлы\Учеба\GB\3.Kasoian_CS_09.23\06.10.23 HW\43\obj\Debug\net6.0\43.csproj.CoreCompileInputs.cache
+C:\файлы\Учеба\GB\3.Kasoian_CS_09.23\06.10.23 HW\43\bin\Debug\net6.0\43.exe
+C:\файлы\Учеба\GB\3.Kasoian_CS_09.23\06.10.23 HW\43\bin\Debug\net6.0\43.deps.json
+C:\файлы\Учеба\GB\3.Kasoian_CS_09.23\06.10.23 HW\43\bin\Debug\net6.0\43.runtimeconfig.json
+C:\файлы\Учеба\GB\3.Kasoian_CS_09.23\06.10.23 HW\43\bin\Debug\net6.0\43.dll
+C:\файлы\Учеба\GB\3.Kasoian_CS_09.23\06.10.23 HW\43\bin\Debug\net6.0\43.pdb
+C:\файлы\Учеба\GB\3.Kasoian_CS_09.23\06.10.23 HW\43\obj\Debug\net6.0\43.dll
+C:\файлы\Учеба\GB\3.Kasoian_CS_09.23\06.10.23 HW\43\obj\Debug\net6.0\refint\43.dll
+C:\файлы\Учеба\GB\3.Kasoian_CS_09.23\06.10.23 HW\43\obj\Debug\net6.0\43.pdb
+C:\файлы\Учеба\GB\3.Kasoian_CS_09.23\06.10.23 HW\43\obj\Debug\net6.0\43.genruntimeconfig.cache
+C:\файлы\Учеба\GB\3.Kasoian_CS_09.23\06.10.23 HW\43\obj\Debug\net6.0\ref\43.dll
