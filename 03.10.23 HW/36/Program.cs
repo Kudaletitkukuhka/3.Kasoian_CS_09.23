@@ -30,8 +30,3 @@ int OddPos (int[] array)
 int[] mass=Mass(5);
 int result=OddPos(mass);
 System.Console.WriteLine(result);
-
-for (int i = 0; i < length; i++)
-{
-     
-}
