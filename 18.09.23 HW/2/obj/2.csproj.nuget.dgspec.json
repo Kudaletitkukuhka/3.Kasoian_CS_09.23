@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\файлы\\Учеба\\GB\\3. Знакомство с языком программирования C#\\18.09.23 HW\\2\\2.csproj": {}
+    "C:\\файлы\\Учеба\\GB\\3.Kasoian_CS_09.23\\18.09.23 HW\\2\\2.csproj": {}
   },
   "projects": {
-    "C:\\файлы\\Учеба\\GB\\3. Знакомство с языком программирования C#\\18.09.23 HW\\2\\2.csproj": {
+    "C:\\файлы\\Учеба\\GB\\3.Kasoian_CS_09.23\\18.09.23 HW\\2\\2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\файлы\\Учеба\\GB\\3. Знакомство с языком программирования C#\\18.09.23 HW\\2\\2.csproj",
+        "projectUniqueName": "C:\\файлы\\Учеба\\GB\\3.Kasoian_CS_09.23\\18.09.23 HW\\2\\2.csproj",
         "projectName": "2",
-        "projectPath": "C:\\файлы\\Учеба\\GB\\3. Знакомство с языком программирования C#\\18.09.23 HW\\2\\2.csproj",
+        "projectPath": "C:\\файлы\\Учеба\\GB\\3.Kasoian_CS_09.23\\18.09.23 HW\\2\\2.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\файлы\\Учеба\\GB\\3. Знакомство с языком программирования C#\\18.09.23 HW\\2\\obj\\",
+        "outputPath": "C:\\файлы\\Учеба\\GB\\3.Kasoian_CS_09.23\\18.09.23 HW\\2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
