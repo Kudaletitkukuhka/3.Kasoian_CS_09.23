@@ -15,7 +15,6 @@ int[,] FillMatrix(int row, int col, int minValue, int maxValue)
      return matr;
 }
 
-
 void PrintMatrix (int[,] matr)
 {
      for (int i = 0; i < matr.GetLength(0); i++)
@@ -31,20 +30,23 @@ void PrintMatrix (int[,] matr)
 
 void ChangeOrderDecreasing(int[,] array)
 {
-     for (int i = 0; i < array.GetLength(0); i++)
+     for (int k = 0; k < array.GetLength(0); k++)
      {
-          int max = array[i,0];
-          for (int j = 1; j < array.GetLength(1); j++)
+          int temp = array[k,0];
+          for (int i = 0; i < array.GetLength(1) - 1; i++)
+     // traverse i+1 to array length
+          for (int j = i + 1; j < array.GetLength(1); j++)
+ 
+     // compare array element with 
+     // all next element
+          if (array[k,i] < array[k,j]) 
           {
-               if (array[i,j]>max) 
-               {
-                    max = array[i,j-1];
-                    array[i,j-1]=array[i,j];
-                    array[i,j]=max;
-               }
+               temp = array[k,i];
+               array[k,i] = array[k,j];
+               array[k,j] = temp;
           }
      }
-
+     
 }
 
 System.Console.Write("Введите количество строк: ");
