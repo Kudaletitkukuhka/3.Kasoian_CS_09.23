@@ -14,7 +14,7 @@ void PrintTillN(int N)
      }
      else if(N<1)
      {
-          System.Console.WriteLine("вы ввели число меньше 1. Попробуйте еще раз");
+          System.Console.WriteLine("Вы ввели число меньше 1. Попробуйте еще раз");
      }
      else
      {
