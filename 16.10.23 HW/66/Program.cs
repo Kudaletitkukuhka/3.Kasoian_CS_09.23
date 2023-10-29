@@ -5,24 +5,17 @@
 M = 1; N = 15 -> 120
 M = 4; N = 8. -> 30 */
 
-
-int SumBetweenNM(int M, int N)
+int SumBetweenNM(int from, int to)
 {    
-     if(M==N) return M;
-     else if(M < N)
-     {
-          return M+=SumBetweenNM(M++,N);
-     }
-     else 
-     {
-          System.Console.WriteLine("Ошибка");
-          return 0;
-     }
+     if(from>to) return SumBetweenNM(to,from);
+     if(from==to) return from;
+     return from+SumBetweenNM(++from,to);
 }
 
-Console.Write("Введите начало периода: ");
+
+Console.Write("Введите первое число: ");
 int M = Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите крайнее значение периода: ");
+Console.Write("Введите второе число: ");
 int N = Convert.ToInt32(Console.ReadLine());
 
-System.Console.WriteLine(SumBetweenNM(M, N));
+System.Console.Write($"Сумма натуральных элеемнтов в промежутке между {M} и {N} равна {SumBetweenNM(M, N)}");
